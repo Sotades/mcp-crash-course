@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mcp-crash-course
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: langchain>=0.3.26
+Requires-Dist: langchain-mcp-adapters>=0.1.9
+Requires-Dist: langgraph>=0.5.3
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: mcp>=0.1.0

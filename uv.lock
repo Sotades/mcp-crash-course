@@ -400,7 +400,7 @@ dependencies = [
     { name = "langchain" },
     { name = "langchain-mcp-adapters" },
     { name = "langgraph" },
-    { name = "python-env" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -408,7 +408,7 @@ requires-dist = [
     { name = "langchain", specifier = ">=0.3.26" },
     { name = "langchain-mcp-adapters", specifier = ">=0.1.9" },
     { name = "langgraph", specifier = ">=0.5.3" },
-    { name = "python-env", specifier = ">=1.0.0" },
+    { name = "python-dotenv", specifier = ">=1.0.0" },
 ]
 
 [[package]]
@@ -533,12 +533,6 @@ sdist = { url = "https://files.pythonhosted.org/packages/f6/b0/4bc07ccd3572a2f9d
 wheels = [
     { url = "https://files.pythonhosted.org/packages/5f/ed/539768cf28c661b5b068d66d96a2f155c4971a5d55684a514c1a0e0dec2f/python_dotenv-1.1.1-py3-none-any.whl", hash = "sha256:31f23644fe2602f88ff55e1f5c79ba497e01224ee7737937930c448e4d0e24dc", size = 20556, upload-time = "2025-06-24T04:21:06.073Z" },
 ]
-
-[[package]]
-name = "python-env"
-version = "1.0.0"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/b8/3f/9ddfac3cbce1dc3f016c17650f656fefd61b19529c5551d8465c58eb45e3/python-env-1.0.0.tar.gz", hash = "sha256:3582e82b2d49d45a612c19c16fa5a6cd061d0230b2f46671d47485e5ac103477", size = 2135, upload-time = "2015-05-26T10:23:29.997Z" }
 
 [[package]]
 name = "python-multipart"

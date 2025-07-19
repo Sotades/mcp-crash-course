@@ -9,4 +9,5 @@ dependencies = [
     "langchain-mcp-adapters>=0.1.9",
     "langgraph>=0.5.3",
     "python-dotenv>=1.0.0",
+    "mcp>=0.1.0",
 ]
