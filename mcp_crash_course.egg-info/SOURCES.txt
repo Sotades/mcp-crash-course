@@ -6,3 +6,4 @@ mcp_crash_course.egg-info/dependency_links.txt
 mcp_crash_course.egg-info/requires.txt
 mcp_crash_course.egg-info/top_level.txt
 servers/math_server.py
+servers/weather_server.py
